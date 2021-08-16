@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/*.exe": true,
+        "**/.o": true,
+        "**/*.c": false,
+    }
+}
